@@ -95,3 +95,4 @@ www.cloudflare.com
 cloudflare.com
 www.onlinegdb.com
 fedoraproject.org
+mirrors.fedoraproject.org
